@@ -1,0 +1,382 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Oswald', sans-serif;
+}
+
+
+.first{
+    width: 100%;
+    height: 400px;
+    background-color: white;
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(221,176,208,1) 50%, rgba(148,187,233,1) 100%, rgba(171,184,225,1) 100%);
+
+}
+
+.highlight{
+    width: 180px;
+    height: 40px;
+    background-color: white;
+    text-align: center;
+    margin: 0px auto;
+    margin-top: 0px;
+
+}
+
+.sitaty{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
+
+
+
+.highlight p{
+    padding-top: 8px;
+}
+
+
+
+.second{
+    width: 100%;
+    height: 768px;  
+    background: rgb(142,99,171);
+    background: linear-gradient(90deg, rgba(142,99,171,1) 0%, rgba(239,29,253,1) 15%, rgba(252,176,69,1) 100%) 
+
+}
+
+
+.third{
+    width: 100%;
+    height: 768px;
+    background-image: url(..//img/2707037-55962770-2560-1440.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+
+
+.photo5{
+    width: 300px;
+    height: 150px;
+    background-color:white ;
+    margin-top: 30px;
+    margin-left: 30px;
+    background-position: right;
+    padding-top: 50px;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+    -webkit-box-shadow: 24px -14px 34px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 24px -14px 34px 1px rgba(0,0,0,0.75);
+    box-shadow: 24px -14px 34px 1px rgba(0,0,0,0.75);
+      
+}
+
+.photo4{
+    width: 300px;
+    height: 150px;
+    background-color:white ;
+    margin-top: 30px;
+    margin-left: 30px;
+    background-position: right;    
+    padding-top: 50px;
+    margin-top: 30px;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+    -webkit-box-shadow: 24px -14px 34px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 24px -14px 34px 1px rgba(0,0,0,0.75);
+    box-shadow: 24px -14px 34px 1px rgba(0,0,0,0.75);
+}
+
+
+.photo3{
+    width: 300px;
+    height: 150px;
+    background-color: white;
+    margin-top: 30px;
+    margin-left: 30px;
+    background-position: center;
+    padding-top: 50px;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+    -webkit-box-shadow: 24px -14px 34px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 24px -14px 34px 1px rgba(0,0,0,0.75);
+    box-shadow: 24px -14px 34px 1px rgba(0,0,0,0.75);
+}
+
+
+
+
+
+.galery{
+    width: 100%;
+    height: 768px;
+    text-align: center;
+    margin: 0px auto;
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    -webkit-box-shadow: 23px -14px 61px -20px rgba(0,0,0,0.75);
+    -moz-box-shadow: 23px -14px 61px -20px rgba(0,0,0,0.75);
+    box-shadow: 23px -14px 61px -20px rgba(0,0,0,0.75)
+ 
+}
+
+
+
+.photo1sc{
+    width: 300px;
+    height: 240px;
+    background-color: white;
+    margin: 20px;
+    border-radius: 10px;
+    -webkit-box-shadow: 24px -14px 34px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 24px -14px 34px 1px rgba(0,0,0,0.75);
+    box-shadow: 24px -14px 34px 1px rgba(0,0,0,0.75);
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.photo1sc p{
+    text-align: center;
+}
+
+.frameimg{
+    background-image: url(..//img/300px-messi_olympics-soccer-7.jpg);
+    background-position: center;
+    width: 300px;
+    height: 180px;
+    border-radius: 10px;
+
+    
+}
+.frameimg2{
+    background-image:url(..//img/2212864-46157250-2560-1440.jpg) ;
+    background-position: center;
+    width: 300px;
+    height: 180px;
+    background-size: cover;
+    border-radius: 10px; 
+}
+
+.photo2sc{
+    width: 300px;
+    height: 240px;
+    margin: 20px;
+    background-color: white;
+    -webkit-box-shadow: 24px -14px 34px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 24px -14px 34px 1px rgba(0,0,0,0.75);
+    box-shadow: 24px -14px 34px 1px rgba(0,0,0,0.75);
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+
+.photo3sc{
+    width: 300px;
+    height: 240px;
+    margin: 20px;
+    background-color: white;
+    -webkit-box-shadow: 24px -14px 34px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 24px -14px 34px 1px rgba(0,0,0,0.75);
+    box-shadow: 24px -14px 34px 1px rgba(0,0,0,0.75);
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+
+.frameimg3{
+    background-position: center;
+    background-image: url(..//img/1496598024_123.jpg);
+    width: 300px;
+    height: 180px;
+    background-size: cover;
+    border-radius: 10px;   
+}
+
+ 
+
+.photo3sc p{
+    text-align: center;
+}
+
+.video{
+    margin-top: 30px;
+    margin-left: 30px;
+    border-radius: 20px;
+}
+
+.galeryp{
+    text-align: center;
+    font-size: 45px;
+    background-color: wheat;
+}
+
+.photo4sc{
+    width: 300px;
+    height: 240px;
+    margin: 20px;
+    background-color: white;
+    -webkit-box-shadow: 24px -14px 34px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 24px -14px 34px 1px rgba(0,0,0,0.75);
+    box-shadow: 24px -14px 34px 1px rgba(0,0,0,0.75);
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+
+.frameimg4{
+    background-position: center;
+    background-image: url(..//img/ehp1etewsayaics.jpg);
+    width: 300px;
+    height: 180px;
+    background-size: cover;
+    border-radius: 10px;   
+}
+.photo5sc{
+    width: 300px;
+    height: 240px;
+    margin: 20px;
+    background-color: white;
+    -webkit-box-shadow: 24px -14px 34px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 24px -14px 34px 1px rgba(0,0,0,0.75);
+    box-shadow: 24px -14px 34px 1px rgba(0,0,0,0.75);
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+
+.frameimg5{
+    background-position: center;
+    background-image: url(..//img/test-chempionata-futbol-90-h_1585234372985799519.jpg);
+    width: 300px;
+    height: 180px;
+    background-size: cover;  
+    border-radius: 10px; 
+}
+
+.photo6sc{
+    width: 300px;
+    height: 240px;
+    margin: 20px;
+    background-color: white;
+    -webkit-box-shadow: 24px -14px 34px 1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 24px -14px 34px 1px rgba(0,0,0,0.75);
+    box-shadow: 24px -14px 34px 1px rgba(0,0,0,0.75);
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+
+.frameimg6{
+    background-position: center;
+    background-image: url(..//img/orig_502546.jpg);
+    width: 300px;
+    height: 180px;
+    background-size: cover; 
+    border-radius: 10px; 
+}
+
+.btn{
+    display: block;
+    background-color: white;
+    margin: 0;
+    height: 30px;
+    width: 300px;
+
+
+}
+
+
+
+.btn a p{
+    text-align: center;
+}
+
+
+.fourth{
+    width: 100%;
+    height: 350px;
+    background-color: black;
+    
+
+}
+
+.photo6sc a{
+    display: block;
+    text-align:center;
+    
+}
+
+
+.video2{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.textrecords{
+    text-decoration-color:black;
+    background-color: #fff;
+    width: 60%;
+    padding-top: auto;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-style: italic;
+    position: absolute;
+    top: 1700px;
+    right: 10px;
+}
+
+.textrecords2{
+    text-decoration-color:black;
+    background-color: #fff;
+    width: 60%;
+    padding-top: auto;
+    text-align: center;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-style: italic;
+    position: absolute;
+    top: 1300px;
+    right: 10px;
+}
+
+.lastpage{
+    text-decoration-color:black;
+    background-color:darkslategray;
+    width: 20%;
+    text-align: center;  
+    padding-top: 20px; 
+
+}
+
+.btn8{
+    color: black;
+    position: absolute;
+    top: 1900px;
+    right: 100px;
+    background-color: darkolivegreen;
+    width: 267px;
+
+
+}
+
+.btn8 a{
+    color: black;
+    font-style: italic;
+}
+
